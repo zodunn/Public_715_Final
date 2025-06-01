@@ -1,6 +1,6 @@
 CompSci 715 - Programming for ML Final Project
 
-# Abstract
+# Introduction
 Developing an efficient solution to the problem of rendering images based on
 a 3D scene is a complicated task that many are trying to achieve. Due to the
 amount of computation involved in rendering an image it has the potential to
@@ -11,3 +11,5 @@ faster image generation. This project aims to utilize parallel processing embedd
 in the rendering pipeline to increase the speed at which images can render by
 enabling the rendering pipeline to calculate the data for multiple objects in a
 scene at once.
+
+Above you will find a pdf report of the project, please refer to this for more details.
